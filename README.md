@@ -12,7 +12,7 @@ IF IT RUNS DON'T TOUCH IT
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** `C` | `C++` | `Java` | `JavaScript` | `HTML5` | `CSS3` | `ARM Assembly` | `SQL`
+**Languages:** `C` | `C++` | `Java` | `JavaScript` | `SQL`
 
 **Frameworks & Libraries:** `React` 
 
