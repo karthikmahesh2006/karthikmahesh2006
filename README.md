@@ -7,6 +7,9 @@ I'm a developer passionate about building robust software systems and exploring 
 * 🔭 I’m currently working on a **Hostel Management System** leveraging **Apache Cassandra** for scalable data handling.
 * 📫 How to reach me: karthimahesh2006@gmail.com or https://www.linkedin.com/in/karthik-mahesh-km42/
 
+## Motto
+IF IT RUNS DON'T TOUCH IT
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** `C` | `C++` | `Java` | `JavaScript` | `HTML5` | `CSS3` | `ARM Assembly` | `SQL`
